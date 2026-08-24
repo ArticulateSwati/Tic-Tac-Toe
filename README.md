@@ -7,9 +7,9 @@ This project features a beautiful pink-themed interface with animated hearts, sm
 
 ## 🌐 Live Demo
 
-🚀 **Play the game here:** [Live Demo](YOUR-LIVE-DEMO-LINK)
+🚀 **Play the game here:** [Live Demo]((https://github.com/ArticulateSwati/Tic-Tac-Toe/blob/main/Screen%20Recording%202026-08-24%20212023.mp4))
 
-> Update `YOUR-LIVE-DEMO-LINK` with your GitHub Pages URL after deploying the project.
+
 
 ## ✨ Features
 
